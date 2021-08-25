@@ -1,4 +1,4 @@
-# Baisic-OOP-project-
+# Basic-OOP-project-
 This is just a basic console based  Object oriented project in Java
 package javaprogramming;
 import java.util.ArrayList;
